@@ -72,16 +72,16 @@ logo = """
 
 
 
-\033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈👽◈━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
+\033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈👻◈━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
 
 
-\033[1;96m(~)\033[1;97m Author : GUPTA-SHAKEL \033[1;97m[ \033[0;92mGUPTA \033[1;97m]
+\033[1;96m(💔)\033[1;97m Author : GUPTA-SHAKEL \033[1;97m[ \033[0;92mGUPTA \033[1;97m]
 
-\033[1;96m(~)\033[1;97m Github : https://GitHub.com/GUPTA-SHAKEL
+\033[1;96m(💔)\033[1;97m Github : https://GitHub.com/GUPTA-SHAKEL
 
-\033[1;96m(~)\033[1;97m Fb     : Mark Cornel
+\033[1;96m(💔)\033[1;97m Fb     : Mark Cornel
                            
-            USE AIRPLANE MODE EVERY 20 MINT
+            USE AIRPLANE MODE EVERY 10 MINT
 \033[1;97m-----------------------------------------------
 
 """
@@ -625,7 +625,7 @@ def menu_select():
 
 		                    if 'www.facebook.com' in d['error_msg']:
 
-		                        print("\033[1;96m[Successfull] "+uid+" | "+pass3)
+		                        print("\033[1;96m[GUPTA-CP] "+uid+" | "+pass3)
 
 		                        cp=open("ok.txt","a")
 
